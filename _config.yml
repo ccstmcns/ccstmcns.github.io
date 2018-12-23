@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "王健老师个人主页",
+        title: "王健教授的个人主页",
         href: "http://ccst.jlu.edu.cn/info/1026/2120.htm"
     },{
         title: "计算科学与技术机学院主页",
